@@ -110,7 +110,6 @@ df = df_split[df_split["지점번호"].str.startswith("46")].copy()
 
 사용자는 민감한 꽃가루와 지역을 고른 뒤 결과를 확인합니다.
 
-![서비스 첫 화면](images/app_main.jpg)
 
 <br>
 
